@@ -89,7 +89,7 @@ def ver_lista_clientes():
 def menu():
     cargar_clientes()
     while True:
-        print("\nMenú:")
+        print("\nMenú Clientes Amazon:")
         print("1. Ver lista de clientes")
         print("2. Ver cliente")
         print("3. Crear cliente nuevo")
